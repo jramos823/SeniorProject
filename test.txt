@@ -1,0 +1,46 @@
+10.10.10.10
+hostname:
+stuff:    2
+
+stuff:
+    data ----- junk
+    data ----- junk
+    data ----- junk
+    data ----- keyword
+    data ----- junk
+    data ----- junk
+    data ----- junk
+10.10.10.10
+Hostnames:
+stuff:    2
+stuff:
+    data ----- junk
+    data ----- junk
+    data ----- junk
+    data ----- keyword
+    data ----- junk
+    data ----- junk
+    data ----- junk
+10.10.10.10
+Hostnames:
+stuff:    2
+stuff:
+    data ----- junk
+    data ----- junk
+    data ----- junk
+    data ----- keyword1
+    data ----- junk
+    data ----- junk
+    data ----- junk
+10.10.10.10
+Hostnames:
+stuff:    2
+stuff:
+    data ----- junk
+    data ----- junk
+    data ----- junk
+    data ----- keyword2
+    data ----- junk
+    data ----- junk
+    data ----- junk
+	
